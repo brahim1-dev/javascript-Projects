@@ -19,8 +19,7 @@ This project creates a hidden sidebar navigation panel that slides in from the l
 - `style.css` — styles for the sidebar and responsive behavior
 - `script.js` — JavaScript to toggle the sidebar visibility
 
-## How to Use
-
+## How to Us
 1. Open `index.html` in a web browser.
 2. Click the hamburger button to open the sidebar.
 3. Click the close button to hide the sidebar.
