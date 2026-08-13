@@ -4,6 +4,7 @@ This repository contains two separate JavaScript projects in dedicated folders:
 
 - `01. Responsive Menu` — responsive navbar project
 - `02. Side Bar` — responsive sidebar project
+- `03. login form with animation` — animated login form project
 
 ## Projects
 
@@ -16,6 +17,13 @@ The folder includes:
 
 ### 02. Side Bar
 A responsive sidebar menu with open and close controls.
+The folder includes:
+- `index.html`
+- `style.css`
+- `script.js`
+
+### 03. login form with animation
+A login form with CSS animation and simple client-side interactions.
 The folder includes:
 - `index.html`
 - `style.css`
