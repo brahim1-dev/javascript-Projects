@@ -31,13 +31,9 @@ start "" "02. Side Bar/index.html"
 start "" "03. login form with animation/index.html"
 ```
 
-Tips
+-Tips
 
 - Edit `index.html`, `style.css`, or `script.js` inside a project folder and refresh the browser to see changes.
-- Commit daily as you update demos — short, descriptive commit messages help track progress.
-
-Want more?
-
-- I can add live previews with GitHub Pages, inline screenshots, or direct links from this README. Tell me which and I’ll set it up.
+- Commit regularly with clear, descriptive messages to track progress.
 
 — Brahim
