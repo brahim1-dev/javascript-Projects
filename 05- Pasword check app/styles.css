@@ -1,0 +1,108 @@
+:root{
+    --colorOne: #f1f5f8;
+    --colorTwo: #102a42;
+    --colorThree: #243a52;
+    --colorFour: grey;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--colorTwo);
+    color: var(--colorOne);
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background: var(--colorThree);
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+.login{
+    margin-bottom: 20px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.form-control{
+    position: relative;
+    margin: 20px 0 40px;
+    width: 300px;
+}
+
+.form-control input{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid var(--colorOne);
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 18px;
+    color: var(--colorOne);
+}
+
+.form-control input:focus{
+    outline: none;
+}
+
+.container a{
+    text-decoration: none;
+    color: var(--colorFour);
+    margin-left: 8px;
+}
+
+.myProgress{
+    width: 100%;
+    background: var(--colorFour);
+    border-radius: 5px;
+    position: relative;
+}
+
+.myBar{
+    width: 0%;
+    background:red;
+    height: 15px;
+    border-radius: 5px;
+    color: var(--colorOne);
+    max-width: 100%;
+}
+
+.message{
+    color: var(--colorTwo);
+    position: absolute;
+    top: -3px;
+    font-size: 14px;
+    right: 70px;
+}
+
+.btn{
+    cursor: pointer;
+    width: 100%;
+    background-color: var(--colorOne);
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.btn:hover{
+    background-color: var(--colorFour);
+    color: var(--colorOne);
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+}
