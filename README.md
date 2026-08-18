@@ -31,6 +31,7 @@ start "" "01. Responsive Menu/index.html"
 start "" "02. Side Bar/index.html"
 start "" "03. login form with animation/index.html"
 start "" "04. counter Application/index.html"
+start "" "04. Password check App/index.html"
 ```
 
 ## Tips
