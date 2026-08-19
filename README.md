@@ -32,6 +32,7 @@ start "" "02. Side Bar/index.html"
 start "" "03. login form with animation/index.html"
 start "" "04. counter Application/index.html"
 start "" "05. Password check App/index.html"
+start "" "06. Note Taking App/index.html"
 ```
 
 ## Tips
