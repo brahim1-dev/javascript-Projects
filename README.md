@@ -33,8 +33,9 @@ start "" "03. login form with animation/index.html"
 start "" "04. counter Application/index.html"
 start "" "05. Password check App/index.html"
 start "" "06. Note Taking App/index.html"
+start "" "07. Text to Speech converter/index.html"
 ```
-
+ 
 ## Tips
 
 - Edit `index.html`, `style.css`, or `script.js` inside a project folder and refresh the browser to see changes.
