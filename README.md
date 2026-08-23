@@ -1,5 +1,4 @@
-﻿# JavaScript Projects
-
+﻿# JavaScript Projects That you can Learn .
 A collection of small front-end projects built with HTML, CSS, and vanilla JavaScript. Each project is self-contained and can be opened directly in a browser.
 
 ## Projects
@@ -31,7 +30,7 @@ No build tools or package installation are required. You can also open a project
 Invoke-Item ".\01. Responsive Menu\index.html"
 ```
 
-## Technologies
+## Technologies 
 
 - HTML5
 - CSS3
