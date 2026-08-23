@@ -1,44 +1,48 @@
 ﻿# JavaScript Projects
 
-A collection of small front-end UI experiments built with plain HTML, CSS, and JavaScript. Each project is self-contained and can be opened directly in the browser.
-
-## Why this repo?
-
-- No dependencies or build tools required
-- Easy to study and modify
-- One small project per folder
+A collection of small front-end projects built with HTML, CSS, and vanilla JavaScript. Each project is self-contained and can be opened directly in a browser.
 
 ## Projects
 
-- `01. Responsive Menu` — a responsive navigation menu with a mobile hamburger toggle
-- `02. Side Bar` — a sliding sidebar menu with open/close interactions
-- `03. login form with animation` — a login form with animated UI effects
-- `04. counter Application` — a simple counter app with increment, decrement, and reset controls
+| # | Project | Description |
+| --- | --- | --- |
+| 01 | [Responsive Menu](01.%20Responsive%20Menu/index.html) | Responsive navigation menu with a mobile toggle |
+| 02 | [Side Bar](02.%20Side%20Bar/index.html) | Sliding sidebar with open and close interactions |
+| 03 | [Login Form With Animation](03.%20login%20form%20with%20animation/index.html) | Login form with animated input and interface effects |
+| 04 | [Counter Application](04.%20counter%20Application/index.html) | Counter with increment, decrement, and reset controls |
+| 05 | [Password Check App](05-%20Pasword%20check%20app/index.html) | Login form with password-strength feedback |
+| 06 | [Notes Taking Application](06.%20Notes%20Taking%20Aplication/index.html) | Simple interface for creating and managing notes |
+| 07a | [Text-to-Speech Converter](07.%20Text%20to%20speech%20converter/01-%20Text%20to%20speech%20Convertor%20Application/index.html) | Converts entered text to spoken audio |
+| 07b | [Text-to-Speech Exercise](07.%20Text%20to%20speech%20converter/02-Exercise%20Text%20to%20speech%20Convertor%20Application%20copy/index.html) | Practice version of the text-to-speech project |
+| 08 | [Random User Generator](08.%20Random%20User%20Generator/index.html) | Fetches and displays random user data |
 
-## Quick start
+## Getting Started
 
-1. Clone the repository:
+Clone the repository, then open any linked `index.html` file in your browser:
 
 ```bash
 git clone https://github.com/brahim1-dev/javascript-Projects.git
 cd javascript-Projects
 ```
 
-2. Open any project in the browser:
+No build tools or package installation are required. You can also open a project from Windows PowerShell with:
 
-```bash
-start "" "01. Responsive Menu/index.html"
-start "" "02. Side Bar/index.html"
-start "" "03. login form with animation/index.html"
-start "" "04. counter Application/index.html"
-start "" "05. Password check App/index.html"
-start "" "06. Note Taking App/index.html"
-start "" "07. Text to Speech converter/index.html"
+```powershell
+Invoke-Item ".\01. Responsive Menu\index.html"
 ```
- 
-## Tips
 
-- Edit `index.html`, `style.css`, or `script.js` inside a project folder and refresh the browser to see changes.
-- Commit regularly with clear, descriptive messages to track progress.
+## Technologies
 
-— https://github.com/brahim1-dev
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Web Speech API in the text-to-speech projects
+- Random User API and Axios CDN in the random-user project
+
+## Working On A Project
+
+Open a project folder, edit its HTML, CSS, or JavaScript files, and refresh the browser to see your changes. Some projects load external browser libraries or APIs, so an internet connection may be needed for all features to work.
+
+## Author~
+
+[brahim1-dev](https://github.com/brahim1-dev)
