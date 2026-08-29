@@ -14,6 +14,20 @@ A collection of small front-end projects built with HTML, CSS, and vanilla JavaS
 | 07a | [Text-to-Speech Converter](07.%20Text%20to%20speech%20converter/01-%20Text%20to%20speech%20Convertor%20Application/index.html) | Converts entered text to spoken audio |
 | 07b | [Text-to-Speech Exercise](07.%20Text%20to%20speech%20converter/02-Exercise%20Text%20to%20speech%20Convertor%20Application%20copy/index.html) | Practice version of the text-to-speech project |
 | 08 | [Random User Generator](08.%20Random%20User%20Generator/index.html) | Fetches and displays random user data |
+| 09 | [Dicee Challenge](09.%20Dicee%20Challenge/dicee.html) | Two-player dice game with random results |
+
+## How to Play - Dicee Challenge
+
+The Dicee Challenge is a simple two-player dice rolling game:
+
+1. **Open the Game** - Open [dicee.html](09.%20Dicee%20Challenge/dicee.html) in your browser
+2. **Roll the Dice** - Each player's dice will automatically roll when the page loads (showing a random number 1-6)
+3. **Determine the Winner** - The player with the higher number wins!
+4. **Play Again** - Refresh the page to roll again and play another round
+5. **Possible Outcomes**:
+   - 🚩 Player 1 Wins! (if Player 1's dice is higher)
+   - 🚩 Player 2 Wins! (if Player 2's dice is higher)
+   - Draw! (if both dice show the same number)
 
 ## Getting Started
 
