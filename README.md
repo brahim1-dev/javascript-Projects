@@ -15,6 +15,18 @@ A collection of small front-end projects built with HTML, CSS, and vanilla JavaS
 | 07b | [Text-to-Speech Exercise](07.%20Text%20to%20speech%20converter/02-Exercise%20Text%20to%20speech%20Convertor%20Application%20copy/index.html) | Practice version of the text-to-speech project |
 | 08 | [Random User Generator](08.%20Random%20User%20Generator/index.html) | Fetches and displays random user data |
 | 09 | [Dicee Challenge](09.%20Dicee%20Challenge/dicee.html) | Two-player dice game with random results |
+| 10 | [Simon Game Challenge](10.%20Simon%20Game%20Challenge/index.html) | Memory game where you follow an increasingly complex pattern |
+
+## How to Play - Simon Game Challenge
+
+Simon is a memory game where you must repeat an ever-growing sequence of colors and sounds:
+
+1. **Open the Game** - Open [index.html](10.%20Simon%20Game%20Challenge/index.html) in your browser
+2. **Watch the Pattern** - Simon will show you a sequence by lighting up buttons and playing sounds
+3. **Repeat the Pattern** - Click the buttons in the same order you saw them
+4. **Level Up** - Each time you successfully repeat the pattern, a new color is added
+5. **Game Over** - If you click the wrong button, the game ends and shows your final level
+6. **Try Again** - Press any key to restart and beat your high score
 
 ## How to Play - Dicee Challenge
 
