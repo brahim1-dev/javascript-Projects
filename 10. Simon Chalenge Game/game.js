@@ -1,4 +1,4 @@
-
+// this is js code that actually runs all ofthem
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
